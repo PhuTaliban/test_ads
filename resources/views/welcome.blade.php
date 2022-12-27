@@ -388,6 +388,9 @@
             font-family: 'Nunito', sans-serif;
         }
     </style>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3661812461656391"
+          crossorigin="anonymous"></script>
 </head>
 
 <body class="antialiased">
@@ -479,11 +482,18 @@
                     </div>
                 </div>
                 <div style="border: #000 1px solid;">
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3661812461656391" crossorigin="anonymous"></script>
-                <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-3661812461656391" data-ad-slot="6774340104"></ins>
-                <script>
-                    (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3661812461656391"
+                         crossorigin="anonymous"></script>
+                    <!-- unit01 -->
+                    <ins class="adsbygoogle"
+                         style="display:block"
+                         data-ad-client="ca-pub-3661812461656391"
+                         data-ad-slot="8502170963"
+                         data-ad-format="auto"
+                         data-full-width-responsive="true"></ins>
+                    <script>
+                         (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
                 </div>
             </div>
 
